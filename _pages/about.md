@@ -7,28 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-I am a prospective master student in Software Engineering at Northeastern University(NEU), supervised by Assoc. Prof. Chuan Lin. I received my B.Eng. degree in Software Engineering from Liaoning Technical University.
+I am a prospective master student in Software Engineering at **Northeastern University(NEU)**, supervised by Assoc. Prof. **Chuan Lin**. I received my B.Eng. degree in Software Engineering from Liaoning Technical University.
+
 I will join the Intelligent Computing and Service Research Institute at Northeastern University for postgraduate research, devoting myself to artificial intelligence, visual intelligent perception and distributed intelligent computing research.
 
 Research Interests
 ======
--Autonomous Unmanned Intelligent System Formation Planning
--AUV Cluster Cooperative Control & Data Routing
--Software-Defined Smart City Data Transmission Optimization
--Vehicular Network Mobility Management
--Industrial Internet Transmission Performance Analysis & Optimization
--Low-latency & High-bandwidth Network Performance Optimization
+- Autonomous Unmanned Intelligent System Formation Planning
+- AUV Cluster Cooperative Control & Data Routing
+- Software-Defined Smart City Data Transmission Optimization
+- Vehicular Network Mobility Management
+- Industrial Internet Transmission Performance Analysis & Optimization
+- Low-latency & High-bandwidth Network Performance Optimization
 
 News
 ======
 🧩 Ongoing Research Pipeline
-📄 Journal Expectation
-Looking forward to publishing innovative research in IEEE Transactions Series (Top SCI Journal).
--🎉🎉paper 1
-🏆 Conference Expectation
-Aspiring to contribute and publish original work in CCF-A Top Conference.
--🎉🎉paper 2
 
+📄 Journal Expectation
+
+Looking forward to publishing innovative research in IEEE Transactions Series (Top SCI Journal).
+
+- 🎉🎉paper 1
+- 
+🏆 Conference Expectation
+
+Aspiring to contribute and publish original work in CCF-A Top Conference.
+
+- 🎉🎉paper 2
+- 
+
+  
 Education
 ------
 - **2023.09 – 2027.06 (Expected)**

@@ -23,11 +23,11 @@ repository               : "guo-qinghui/guo-qinghui.github.io"
 author:
   # Biographic information
   avatar           : "证件照1(1).png"
-  name             : "郭庆辉"
+  name             : "Qinghui Guo"
   pronouns         : # example: "she/her"  
-  bio              : "水下智能体/强化学习/边缘计算"
-  location         : "沈阳"
-  employer         : "东北大学"
+  bio              : "Master of Software Engineering"
+  location         : "Shenyang"
+  employer         : "Northeastern University"
   uri              : # URL
   email            : "1909406878@qq.com" 
 

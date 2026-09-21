@@ -22,8 +22,8 @@ repository               : "guo-qinghui/guo-qinghui.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "证件照1(1).png"
+  name             : "郭庆辉"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Shenyang"
